@@ -1,0 +1,14 @@
+{
+  "name": "photoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Views/Home/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.7.2"
+  }
+}
